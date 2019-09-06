@@ -8,5 +8,8 @@
     "start": "node echoServer"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "pm2": "^3.5.1"
+  }
 }
